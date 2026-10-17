@@ -1,2 +1,2 @@
-# SO2-INFO-SUPPORT
-Поддержка канала
+# GEMINIVISUALS
+визуалы
