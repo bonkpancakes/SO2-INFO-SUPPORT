@@ -2,7 +2,8 @@ name: Compile APK with Buildozer
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "основной" ]
+
 
 jobs:
   build:
